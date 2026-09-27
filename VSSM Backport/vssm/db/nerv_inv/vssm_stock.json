@@ -1,0 +1,42 @@
+{
+    "overwriteProperties": {
+        "itemTplToClone": "578395e82459774a0e553c7b",
+        "overrideProperties": {
+            "Ergonomics": 20,
+            "Recoil": -25,
+            "Accuracy": 5,
+            "Prefab": {
+                "path": "vssm/stock_vssm.bundle",
+                "rcid": ""
+            },
+            "Weight": 0.23
+        },
+        "parentId": "55818a594bdc2db9688b456a",
+        "newId": "578395e82459774a0e55dcfd",
+        "fleaPriceRoubles": 25668,
+        "handbookPriceRoubles": 32000,
+        "handbookParentId": "5b5f757486f774093e6cb507",
+        "locales": {
+            "en": {
+                "Name": "VSSM stock",
+                "ShortName": "VSSM",
+                "Description": "A standard-issue stock for VSSM Vintorez sniper rifles, manufactured by TsNIITochMash."
+            }
+        }
+    },
+    "slotsToAdd": {
+        "targetID": [
+            "57838ad32459774a17445cd2"
+        ],
+        "slotName": [
+            "mod_stock"
+        ]
+    },
+    "traderToAdd": {
+        "traderID": "5a7c2eca46aef81a7ca2145d",
+        "loyal_level_items": 2,
+        "barter_scheme": "ROUBLES",
+        "barter_scheme_value": 16588,
+        "BuyRestrictionMax": 4
+    }
+}

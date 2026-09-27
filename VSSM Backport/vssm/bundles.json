@@ -1,0 +1,16 @@
+{
+	"manifest": [
+		{
+			"key": "vssm/stock_vssm.bundle",
+			"dependencyKeys": [
+				"shaders"
+			]
+		},
+		{
+			"key": "vssm/receiver_vssm.bundle",
+			"dependencyKeys": [
+				"shaders"
+			]
+		}
+	]
+}

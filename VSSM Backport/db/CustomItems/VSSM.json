@@ -1,0 +1,239 @@
+{
+  "578395e82459774a0e55dcfd": {
+    "itemTplToClone": "578395e82459774a0e553c7b",
+    "parentId": "55818a594bdc2db9688b456a",
+    "handbookParentId": "5b5f757486f774093e6cb507",
+    "handbookPriceRoubles": 32000,
+    "fleaPriceRoubles": 25668,
+    "registerInHandbook": true,
+    "registerInFleaPrices": true,
+    "overrideProperties": {
+      "Ergonomics": 20,
+      "Recoil": -25,
+      "Accuracy": 5,
+      "Prefab": {
+        "path": "vssm/stock_vssm.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.23
+    },
+    "locales": {
+      "en": {
+        "name": "VSSM stock",
+        "shortName": "VSSM",
+        "description": "A standard-issue stock for VSSM Vintorez sniper rifles, manufactured by TsNIITochMash."
+      },
+      "ch": {
+        "name": "TSNIITochMash VSSM Vintorez枪托",
+        "shortName": "VSSM枪托",
+        "description": "TSNIITochMash制造的VSSM Vintorez枪托。"
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": ["mod_stock"],
+    "addtoTraders": true,
+    "traders": {
+      "MECHANIC": {
+        "6b2cc992e41e6a7bf8390f1a": {
+          "barterSettings": {
+            "loyalLevel": 2,
+            "unlimitedCount": false,
+            "stackObjectsCount": 44,
+            "buyRestrictionMax": 4
+          },
+          "barters": [
+            {
+              "count": 16588,
+              "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+          ]
+        }
+      }
+    }
+  },
+  "578395402459774a256959b6": {
+    "itemTplToClone": "578395402459774a256959b5",
+    "parentId": "55818a304bdc2db5418b457d",
+    "handbookParentId": "5b5f764186f77447ec5d7714",
+    "handbookPriceRoubles": 18000,
+    "fleaPriceRoubles": 12000,
+    "registerInHandbook": true,
+    "registerInFleaPrices": true,
+    "overrideProperties": {
+      "Accuracy": 1,
+      "ConflictingItems": [
+        "5649d9a14bdc2d79388b4580",
+        "5649af094bdc2df8348b4586",
+        "5ac50da15acfc4001718d287",
+        "5d2c76ed48f03532f2136169",
+        "5d2c770c48f0354b4a07c100",
+        "59d6507c86f7741b846413a2",
+        "59e6449086f7746c9f75e822",
+        "628a665a86cbd9750d2ff5e5",
+        "5d2c772c48f0355d95672c25",
+        "5947db3f86f77447880cf76f",
+        "6113d6c3290d254f5e6b27db",
+        "57486e672459770abd687134",
+        "618a5d5852ecee1505530b2a",
+        "5c82342f2e221644f31c060e",
+        "576fd4ec2459777f0b518431",
+        "5c82343a2e221644f31c0611",
+        "5cf638cbd7f00c06595bc936",
+        "5a7c74b3e899ef0014332c29",
+        "591ee00d86f774592f7b841e",
+        "5d0a29ead7ad1a0026013f27",
+        "618a75c9a3884f56c957ca1b",
+        "57acb6222459771ec34b5cb0",
+        "5c61a40d2e2216001403158d",
+        "5c90c3622e221601da359851",
+        "63d114019e35b334d82302f7",
+        "638db77630c4240f9e06f8b6",
+        "5649af884bdc2d1b2b8b4589",
+        "6544d4187c5457729210d277",
+        "5e569a2e56edd02abe09f280",
+        "5dff8db859400025ea5150d4"
+      ],
+      "Prefab": {
+        "path": "vssm/receiver_vssm.bundle",
+        "rcid": ""
+      },
+      "Weight": 0.18,
+      "Slots": [
+        {
+          "_id": "5caf1691ae92152ac412efbb",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_scope",
+          "_parent": "578395402459774a256959b6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "57ac965c24597706be5f975c",
+                  "57aca93d2459771f2c7e26db",
+                  "544a3f024bdc2d1d388b4568",
+                  "544a3a774bdc2d3a388b4567",
+                  "5d2dc3e548f035404a1a4798",
+                  "57adff4f24597737f373b6e6",
+                  "5c0517910db83400232ffee5",
+                  "591c4efa86f7741030027726",
+                  "570fd79bd2720bc7458b4583",
+                  "570fd6c2d2720bc6458b457f",
+                  "558022b54bdc2dac148b458d",
+                  "5c07dd120db834001c39092d",
+                  "5c0a2cec0db834001b7ce47d",
+                  "58491f3324597764bc48fa02",
+                  "584924ec24597768f12ae244",
+                  "5b30b0dc5acfc400153b7124",
+                  "6165ac8c290d254f5e6b2f6c",
+                  "60a23797a37c940de7062d02",
+                  "5d2da1e948f035477b1ce2ba",
+                  "5c0505e00db834001b735073",
+                  "609a63b6e2ff132951242d09",
+                  "584984812459776a704a82a6",
+                  "59f9d81586f7744c7506ee62",
+                  "570fd721d2720bc5458b4596",
+                  "57ae0171245977343c27bfcf",
+                  "5dfe6104585a0c3e995c7b82",
+                  "544a3d0a4bdc2d1b388b4567",
+                  "5d1b5e94d7ad1a2b865a96b0",
+                  "609bab8b455afd752b2e6138",
+                  "58d39d3d86f77445bb794ae7",
+                  "616554fe50224f204c1da2aa",
+                  "5c7d55f52e221644f31bff6a",
+                  "616584766ef05c2ce828ef57",
+                  "5b3b6dc75acfc47a8773fb1e",
+                  "615d8d878004cc50514c3233",
+                  "5b2389515acfc4771e1be0c0",
+                  "577d128124597739d65d0e56",
+                  "618b9643526131765025ab35",
+                  "618bab21526131765025ab3f",
+                  "5c86592b2e2216000e69e77c",
+                  "5a37ca54c4a282000d72296a",
+                  "5d0a29fed7ad1a002769ad08",
+                  "5c064c400db834001d23f468",
+                  "58d2664f86f7747fec5834f6",
+                  "57c69dd424597774c03b7bbc",
+                  "5b3b99265acfc4704b4a1afb",
+                  "5aa66a9be5b5b0214e506e89",
+                  "5aa66c72e5b5b00016327c93",
+                  "5c1cdd302e221602b3137250",
+                  "61714b2467085e45ef140b2c",
+                  "6171407e50224f204c1da3c5",
+                  "61713cc4d8e3106d9806c109",
+                  "5b31163c5acfc400153b71cb",
+                  "5a33b652c4a28232996e407c",
+                  "5a33b2c9c4a282000c5a9511",
+                  "59db7eed86f77461f8380365",
+                  "5a1ead28fcdbcb001912fa9f",
+                  "5dff77c759400025ea5150cf",
+                  "626bb8532c923541184624b4",
+                  "62811f461d5df4475f46a332",
+                  "63fc449f5bd61c6cf3784a88",
+                  "6477772ea8a38bb2050ed4db",
+                  "6478641c19d732620e045e17",
+                  "64785e7c19d732620e045e15",
+                  "6567e751a715f85433025998",
+                  "655f13e0a246670fb0373245",
+                  "65392f611406374f82152ba5",
+                  "653931da5db71d30ab1d6296"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        },
+        {
+          "_id": "5cc087c1ae92150010399ab0",
+          "_mergeSlotWithChildren": false,
+          "_name": "mod_mount",
+          "_parent": "578395402459774a256959b6",
+          "_props": {
+            "filters": [
+              {
+                "Filter": ["5649a2464bdc2d91118b45a8"],
+                "Shift": 0
+              }
+            ]
+          },
+          "_proto": "55d30c4c4bdc2db4468b457e",
+          "_required": false
+        }
+      ]
+    },
+    "locales": {
+      "en": {
+        "name": "VSSM dust cover",
+        "shortName": "VSSM",
+        "description": "A standard-issue dust cover for VSSM Vintorez sniper rifles, manufactured by TsNIITochMash."
+      },
+      "ch": {
+        "name": "VSSM Vintorez防尘盖",
+        "shortName": "Ksk VSSM",
+        "description": "TSNIITochMash制造的VSSM Vintorez标准顶部防尘盖。"
+      }
+    },
+    "addtoModSlots": true,
+    "modSlot": ["mod_reciever"],
+    "addtoTraders": true,
+    "traders": {
+      "58330581ace78e27b8b10cee": {
+        "6b2cc992e41e6a7bf8390f1b": {
+          "barterSettings": {
+            "loyalLevel": 1,
+            "unlimitedCount": false,
+            "stackObjectsCount": 33,
+            "buyRestrictionMax": 3
+          },
+          "barters": [
+            {
+              "count": 6800,
+              "_tpl": "5449016a4bdc2d6f028b456f"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

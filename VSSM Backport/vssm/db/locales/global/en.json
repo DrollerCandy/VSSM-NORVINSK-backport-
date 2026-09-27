@@ -1,0 +1,14 @@
+{
+    "itemids": {
+        "5783954024597777256959b5": {
+            "Name": "VSSM dust cover",
+            "ShortName": "VSSM",
+            "Description": "A standard-issue dust cover for VSSM Vintorez sniper rifles, manufactured by TsNIITochMash."
+        },
+        "578395e82459774a0e55dcfd": {
+            "Name": "VSSM stock",
+            "ShortName": "VSSM",
+            "Description": "A standard-issue stock for VSSM Vintorez sniper rifles, manufactured by TsNIITochMash."
+        }
+    }
+}
